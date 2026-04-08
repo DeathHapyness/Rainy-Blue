@@ -1,0 +1,4 @@
+2026-04-07 15:20:20.096 [info] update#setState idle
+2026-04-07 15:20:50.097 [info] update#setState checking for updates
+2026-04-07 15:20:50.288 [info] update#setState idle
+2026-04-07 15:35:52.091 [info] [network process] gone - pid: 48671, exitCode: 15, crashed: true, crashedPreIPC: false

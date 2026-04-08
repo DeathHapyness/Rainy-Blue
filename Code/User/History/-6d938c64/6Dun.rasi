@@ -1,0 +1,91 @@
+configuration {
+    modi: "drun,run";
+    show-icons: true;
+    display-drun: " ";
+    display-run: " ";
+    drun-display-format: "{name}";
+    font: "JetBrainsMono Nerd Font 11";
+}
+
+@theme "/dev/null"
+
+* {
+    /* bg: Asfalto Profundo com 85% opacidade (d9) */
+    bg: #1a1c23d9; 
+    /* bg-selected: Vermelho da Capa de Chuva */
+    bg-selected: #e64539;
+    /* fg: Branco Gelo/Nebuloso */
+    fg: #d8dee9;
+    /* fg-selected: Fundo escuro para contraste no item selecionado */
+    fg-selected: #1a1c23;
+    /* accent: Âmbar da Barraca (usado no inputbar) */
+    accent: #ff9e3d;
+    
+    background-color: transparent;
+    text-color: @fg;
+    margin: 0;
+    padding: 0;
+}
+
+window {
+    width: 400px;
+    background-color: @bg;
+    border: 1px;
+    border-color: #4c566a; /* Cor de borda asfalto claro */
+    border-radius: 12px;
+    padding: 20px;
+}
+
+mainbox {
+    children: [ inputbar, listview ];
+}
+
+inputbar {
+    children: [ entry ];
+    /* Background do input levemente mais claro que o fundo geral */
+    background-color: #242933; 
+    border: 1px;
+    border-color: @accent; /* Borda âmbar no campo de busca */
+    border-radius: 8px;
+    padding: 12px;
+    margin: 0 0 15px 0;
+}
+
+entry {
+    placeholder: "Search...";
+    placeholder-color: #6b7280; /* Cinza desaturado */
+    cursor: text;
+    text-color: @fg;
+}
+
+listview {
+    lines: 8;
+    columns: 1;
+    fixed-height: false;
+    scrollbar: false;
+    spacing: 5px;
+}
+
+element {
+    padding: 8px;
+    border-radius: 6px;
+    spacing: 12px;
+    cursor: pointer;
+}
+
+element selected {
+    background-color: @bg-selected;
+    text-color: @fg-selected;
+}
+
+element-icon {
+    size: 24px;
+    cursor: inherit;
+}
+
+element-text {
+    vertical-align: 0.5;
+    cursor: inherit;
+    text-color: inherit;
+    font: "JetBrainsMono Nerd Font Bold 11";
+}

@@ -1,0 +1,35 @@
+[global]
+monitor = 0
+font = JetBrainsMono Nerd Font 11
+background = "#282A36"
+foreground = "#F8F8F2"
+frame_color = "#BD93F9"
+frame_width = 2
+corner_radius = 8
+gap_size = 5
+origin = top-right
+offset = 10x50
+width = 300
+height = 100
+padding = 10
+horizontal_padding = 10
+timeout = 5
+icon_theme = Papirus
+
+[urgency_low]
+background = "#282A36"
+foreground = "#F8F8F2"
+frame_color = "#50FA7B"
+timeout = 3
+
+[urgency_normal]
+background = "#282A36"
+foreground = "#F8F8F2"
+frame_color = "#BD93F9"
+timeout = 5
+
+[urgency_critical]
+background = "#282A36"
+foreground = "#FF5555"
+frame_color = "#FF5555"
+timeout = 0

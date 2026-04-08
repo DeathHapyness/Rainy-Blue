@@ -1,0 +1,10 @@
+2026-04-08 00:37:52.708 [info] Started local extension host with pid 42493.
+2026-04-08 00:37:53.961 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-08 00:37:55.305 [error] [Extension Host] (node:42493) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-08 00:37:55.368 [error] [Extension Host] (node:42493) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-08 00:37:55.523 [info] [perf] Render performance baseline is 26ms
+2026-04-08 00:39:21.737 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-04-08 00:39:21.737 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-04-08 00:39:21.737 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'
+2026-04-08 00:39:21.750 [error] [File Watcher ('parcel')] Unexpected error stopping watcher: Unable to remove watcher: Argumento inválido (path: /home/rique/.config)

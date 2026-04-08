@@ -1,0 +1,48 @@
+2026-04-07 16:27:11.241 [info] Getting Manifest... esbenp.prettier-vscode
+2026-04-07 16:27:11.290 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-07 16:27:12.799 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 1086ms.
+2026-04-07 16:27:12.961 [info] Extracted extension to file:///home/rique/.vscode/extensions/esbenp.prettier-vscode-12.4.0: esbenp.prettier-vscode
+2026-04-07 16:27:12.972 [info] Renamed to /home/rique/.vscode/extensions/esbenp.prettier-vscode-12.4.0
+2026-04-07 16:27:12.991 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/rique/.vscode/extensions/extensions.json
+2026-04-07 16:27:13.421 [info] Getting Manifest... github.copilot-chat
+2026-04-07 16:27:13.473 [info] Installing extension: github.copilot-chat {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-07 16:27:15.282 [info] Extension signature verification result for github.copilot-chat: Success. Internal Code: 0. Executed: true. Duration: 910ms.
+2026-04-07 16:27:15.790 [info] Extracted extension to file:///home/rique/.vscode/extensions/github.copilot-chat-0.42.3: github.copilot-chat
+2026-04-07 16:27:15.808 [info] Renamed to /home/rique/.vscode/extensions/github.copilot-chat-0.42.3
+2026-04-07 16:27:15.828 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/rique/.vscode/extensions/extensions.json
+2026-04-07 16:27:35.068 [info] Getting Manifest... shd101wyy.markdown-preview-enhanced
+2026-04-07 16:27:35.113 [info] Installing extension: shd101wyy.markdown-preview-enhanced {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-07 16:27:36.478 [info] Extension signature verification result for shd101wyy.markdown-preview-enhanced: Success. Internal Code: 0. Executed: true. Duration: 698ms.
+2026-04-07 16:27:36.772 [info] Extracted extension to file:///home/rique/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.22: shd101wyy.markdown-preview-enhanced
+2026-04-07 16:27:36.791 [info] Renamed to /home/rique/.vscode/extensions/shd101wyy.markdown-preview-enhanced-0.8.22
+2026-04-07 16:27:36.806 [info] Extension installed successfully: shd101wyy.markdown-preview-enhanced vscode-userdata:/home/rique/.vscode/extensions/extensions.json
+2026-04-07 16:27:43.404 [info] Getting Manifest... arcticicestudio.nord-visual-studio-code
+2026-04-07 16:27:43.443 [info] Installing extension: arcticicestudio.nord-visual-studio-code {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-07 16:27:44.424 [info] Extension signature verification result for arcticicestudio.nord-visual-studio-code: Success. Internal Code: 0. Executed: true. Duration: 674ms.
+2026-04-07 16:27:44.433 [info] Extracted extension to file:///home/rique/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0: arcticicestudio.nord-visual-studio-code
+2026-04-07 16:27:44.436 [info] Renamed to /home/rique/.vscode/extensions/arcticicestudio.nord-visual-studio-code-0.19.0
+2026-04-07 16:27:44.447 [info] Extension installed successfully: arcticicestudio.nord-visual-studio-code vscode-userdata:/home/rique/.vscode/extensions/extensions.json
+2026-04-07 16:27:57.277 [info] Getting Manifest... pkief.material-icon-theme
+2026-04-07 16:27:57.318 [info] Installing extension: pkief.material-icon-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-07 16:27:59.565 [info] Extension signature verification result for pkief.material-icon-theme: Success. Internal Code: 0. Executed: true. Duration: 686ms.
+2026-04-07 16:28:00.128 [info] Extracted extension to file:///home/rique/.vscode/extensions/pkief.material-icon-theme-5.33.1: pkief.material-icon-theme
+2026-04-07 16:28:00.160 [info] Renamed to /home/rique/.vscode/extensions/pkief.material-icon-theme-5.33.1
+2026-04-07 16:28:00.177 [info] Extension installed successfully: pkief.material-icon-theme vscode-userdata:/home/rique/.vscode/extensions/extensions.json
+2026-04-07 16:28:36.308 [info] Getting Manifest... databricks.neon-local-connect
+2026-04-07 16:28:36.350 [info] Installing extension: databricks.neon-local-connect {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-07 16:28:37.409 [info] Extension signature verification result for databricks.neon-local-connect: Success. Internal Code: 0. Executed: true. Duration: 687ms.
+2026-04-07 16:28:37.485 [info] Extracted extension to file:///home/rique/.vscode/extensions/databricks.neon-local-connect-2.0.6: databricks.neon-local-connect
+2026-04-07 16:28:37.492 [info] Renamed to /home/rique/.vscode/extensions/databricks.neon-local-connect-2.0.6
+2026-04-07 16:28:37.508 [info] Extension installed successfully: databricks.neon-local-connect vscode-userdata:/home/rique/.vscode/extensions/extensions.json
+2026-04-07 16:28:53.380 [info] Getting Manifest... cweijan.vscode-database-client2
+2026-04-07 16:28:53.422 [info] Installing extension: cweijan.vscode-database-client2 {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"}}
+2026-04-07 16:28:53.500 [info] Getting Manifest... cweijan.dbclient-jdbc
+2026-04-07 16:28:53.509 [info] Installing extension: cweijan.dbclient-jdbc {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/rique/.vscode/extensions/extensions.json","path":"/home/rique/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.114.0","date":"2026-04-01T09:27:11Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2026-04-07 16:28:54.594 [info] Extension signature verification result for cweijan.vscode-database-client2: Success. Internal Code: 0. Executed: true. Duration: 755ms.
+2026-04-07 16:28:54.829 [info] Extracted extension to file:///home/rique/.vscode/extensions/cweijan.vscode-database-client2-8.4.5: cweijan.vscode-database-client2
+2026-04-07 16:28:54.840 [info] Renamed to /home/rique/.vscode/extensions/cweijan.vscode-database-client2-8.4.5
+2026-04-07 16:28:54.982 [info] Extension signature verification result for cweijan.dbclient-jdbc: Success. Internal Code: 0. Executed: true. Duration: 719ms.
+2026-04-07 16:28:55.114 [info] Extracted extension to file:///home/rique/.vscode/extensions/cweijan.dbclient-jdbc-1.4.6: cweijan.dbclient-jdbc
+2026-04-07 16:28:55.117 [info] Renamed to /home/rique/.vscode/extensions/cweijan.dbclient-jdbc-1.4.6
+2026-04-07 16:28:55.135 [info] Extension installed successfully: cweijan.vscode-database-client2 vscode-userdata:/home/rique/.vscode/extensions/extensions.json
+2026-04-07 16:28:55.135 [info] Extension installed successfully: cweijan.dbclient-jdbc vscode-userdata:/home/rique/.vscode/extensions/extensions.json

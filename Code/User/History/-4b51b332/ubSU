@@ -1,0 +1,43 @@
+[general]
+# Ajuste a sensibilidade se as barras estiverem muito baixas ou altas
+framerate = 60
+autosens = 1
+sensitivity = 100
+bars = 0
+bar_width = 2
+bar_spacing = 1
+
+[input]
+# Altere para 'pulse' ou 'alsa' se necessário
+method = pulse
+source = auto
+
+[output]
+# Método de saída padrão
+method = ncurses
+
+[color]
+# Ativando o degradê com os tons de azul da imagem
+gradient = 1
+gradient_count = 6
+
+# Do Azul Polar (Base) ao Azul Glacial (Topo)
+gradient_color_1 = '#5e81ac'
+gradient_color_2 = '#81a1c1'
+gradient_color_3 = '#88c0d0'
+gradient_color_4 = '#8fbcbb'
+gradient_color_5 = '#d8dee9'
+gradient_color_6 = '#eceff4'
+
+[smoothing]
+# Deixa o movimento das barras mais "suave" como a chuva caindo
+monstercat = 1
+waves = 0
+
+[eq]
+# Balanço de frequências
+1 = 1
+2 = 1
+3 = 1
+4 = 1
+5 = 1

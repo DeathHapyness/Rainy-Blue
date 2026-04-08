@@ -1,0 +1,106 @@
+2026-04-07 16:26:19.344 [info] Started local extension host with pid 76094.
+2026-04-07 16:26:20.387 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-07 16:26:22.079 [info] [perf] Render performance baseline is 22ms
+2026-04-07 16:26:29.909 [info] Started local extension host with pid 76395.
+2026-04-07 16:26:30.684 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-07 16:26:32.525 [info] [perf] Render performance baseline is 22ms
+2026-04-07 16:26:48.505 [info] Started local extension host with pid 76791.
+2026-04-07 16:26:49.232 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-07 16:26:51.133 [info] [perf] Render performance baseline is 22ms
+2026-04-07 16:27:17.421 [error] [Extension Host] (node:76791) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-07 16:27:17.422 [error] [Extension Host] (node:76791) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-07 16:27:18.897 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-07 16:27:23.143 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-07 16:30:35.944 [error] command 'github.copilot.signIn' not found: Error: command 'github.copilot.signIn' not found
+    at yZe._tryExecuteCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1796:4832)
+    at yZe.executeCommand (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1796:4732)
+2026-04-07 16:37:46.108 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:37:46.108 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:28.233 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:28.233 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:28.757 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:28.757 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:29.684 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:29.684 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:31.445 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:31.445 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:32.483 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:32.483 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:33.579 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:33.579 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:37.844 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:37.844 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:39:38.432 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:39:38.432 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:19.419 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:19.419 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:19.420 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/link-da-imagem.png, resourceToLoad=file:///home/rique/.config/link-da-imagem.png
+2026-04-07 16:40:29.242 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:29.243 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:29.243 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/%3Cp%20align%3D, resourceToLoad=file:///home/rique/.config/%3Cp%20align%3D
+2026-04-07 16:40:29.244 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/link-da-imagem.png, resourceToLoad=file:///home/rique/.config/link-da-imagem.png
+2026-04-07 16:40:30.034 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:30.035 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:30.036 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/link-da-imagem.png, resourceToLoad=file:///home/rique/.config/link-da-imagem.png
+2026-04-07 16:40:37.371 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:37.372 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:46.057 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:46.058 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:47.056 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:47.056 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:50.679 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:50.680 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:40:50.680 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/Captura%20de%20tela%20de%202026-04-07%2016-34-28.pngwidth%3D, resourceToLoad=file:///home/rique/.config/screenshots/Captura%20de%20tela%20de%202026-04-07%2016-34-28.pngwidth%3D
+2026-04-07 16:40:51.903 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:40:51.904 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:01.807 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:01.807 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:03.058 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:03.059 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:03.731 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:03.732 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:05.580 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:05.580 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:06.730 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:06.730 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:08.460 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:08.460 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:08.982 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:08.982 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:10.710 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:10.710 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:12.463 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:12.463 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:23.613 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:23.614 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:23.614 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/Captura, resourceToLoad=file:///home/rique/.config/screenshots/Captura
+2026-04-07 16:41:26.782 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:26.783 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:26.783 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/Captura, resourceToLoad=file:///home/rique/.config/screenshots/Captura
+2026-04-07 16:41:30.383 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:30.383 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:30.384 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/Captura, resourceToLoad=file:///home/rique/.config/screenshots/Captura
+2026-04-07 16:41:33.709 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:33.709 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:33.709 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/Captura, resourceToLoad=file:///home/rique/.config/screenshots/Captura
+2026-04-07 16:41:34.107 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:34.108 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:34.109 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/Captura, resourceToLoad=file:///home/rique/.config/screenshots/Captura
+2026-04-07 16:41:34.633 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:34.633 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:38.760 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:38.761 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:43.331 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:43.331 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:45.081 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:45.082 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:45.817 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:45.817 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:46.107 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:46.108 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:46.230 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:46.231 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:41:46.531 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/desktop.png, resourceToLoad=file:///home/rique/.config/screenshots/desktop.png
+2026-04-07 16:41:46.531 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/screenshots/terminal.png, resourceToLoad=file:///home/rique/.config/screenshots/terminal.png
+2026-04-07 16:42:34.702 [error] An unknown error occurred. Please consult the log for more details.

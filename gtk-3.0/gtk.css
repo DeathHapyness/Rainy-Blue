@@ -1,0 +1,39 @@
+/* Reseta e aplica o tom azul da chuva */
+@define-color theme_bg_color #1a1c23;
+@define-color theme_fg_color #d8dee9;
+@define-color theme_selected_bg_color #5e81ac;
+@define-color theme_selected_fg_color #eceff4;
+
+/* Thunar e Listas */
+entry, 
+iconview, 
+treeview {
+    background-color: #1a1c23;
+    color: #d8dee9;
+}
+
+/* Cor de seleção em azul glacial */
+selection, 
+entry selection, 
+treeview.view:selected {
+    background-color: #5e81ac;
+    color: #ffffff;
+}
+
+/* Barras de Volume do Pavucontrol em Azul Claro */
+levelbar trough block.high, 
+levelbar trough block.full,
+progressbar progress {
+    background-color: #88c0d0;
+}
+
+/* Sliders/Grip */
+scale contents trough highlight {
+    background-color: #5e81ac;
+}
+
+/* Remover bordas feias */
+window, box, grid {
+    border: none;
+    box-shadow: none;
+}

@@ -1,0 +1,17 @@
+2026-04-08 00:37:53.292 [info] Extension host with pid 42493 started
+2026-04-08 00:37:53.359 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-04-08 00:37:53.382 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-04-08 00:37:53.484 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-04-08 00:37:53.604 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-04-08 00:37:53.654 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-04-08 00:37:53.791 [info] Eager extensions activated
+2026-04-08 00:37:53.814 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-04-08 00:37:53.818 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-04-08 00:37:53.836 [info] ExtensionService#_doActivateExtension cweijan.vscode-database-client2, startup: false, activationEvent: 'onStartupFinished'
+2026-04-08 00:37:54.234 [info] ExtensionService#_doActivateExtension databricks.neon-local-connect, startup: false, activationEvent: 'onStartupFinished'
+2026-04-08 00:37:54.290 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-04-08 00:37:54.291 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onStartupFinished'
+2026-04-08 00:37:55.302 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-04-08 00:37:55.626 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2026-04-08 00:39:21.719 [info] Extension host terminating: received terminate message from renderer
+2026-04-08 00:39:21.746 [info] Extension host with pid 42493 exiting with code 0

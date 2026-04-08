@@ -1,0 +1,79 @@
+2026-04-08 00:41:53.293 [info] Started local extension host with pid 48172.
+2026-04-08 00:41:54.546 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-08 00:41:55.665 [error] [Extension Host] (node:48172) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-08 00:41:55.665 [error] [Extension Host] (node:48172) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-08 00:41:56.101 [info] [perf] Render performance baseline is 22ms
+2026-04-08 00:42:05.817 [warning] Attempted to report in-progress status for unknown chat session type 'copilot-cloud-agent'
+2026-04-08 00:42:05.818 [warning] Attempted to report in-progress status for unknown chat session type 'copilotcli'
+2026-04-08 00:42:05.818 [warning] Attempted to report in-progress status for unknown chat session type 'claude-code'
+2026-04-08 00:42:06.483 [info] Started local extension host with pid 48673.
+2026-04-08 00:42:08.463 [error] [Extension Host] (node:48673) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-04-08 00:42:08.526 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-04-08 00:42:09.228 [info] [perf] Render performance baseline is 22ms
+2026-04-08 00:42:10.216 [error] [Extension Host] (node:48673) ExperimentalWarning: SQLite is an experimental feature and might change at any time
+2026-04-08 00:43:07.770 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-08 00:46:50.532 [error] Cannot read properties of undefined (reading 'dimensions'): TypeError: Cannot read properties of undefined (reading 'dimensions')
+    at get dimensions (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:241618)
+    at get dimensions (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:46520)
+    at get dimensions (vscode-file://vscode-app/usr/share/code/resources/app/node_modules/@xterm/xterm/lib/xterm.js:1:254613)
+    at dv._updatePtyDimensions (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3871:3213)
+    at hct._resizeXCallback (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3867:37130)
+    at hct._debounceResizeX (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3867:18996)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:483:14481
+2026-04-08 00:47:53.328 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-08 00:49:34.639 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2026-04-08 00:49:40.240 [error] An unknown error occurred. Please consult the log for more details.
+2026-04-08 01:17:28.966 [error] Make sure the ref is set before accessing the element. Maybe wrong initialization order?: Error: Make sure the ref is set before accessing the element. Maybe wrong initialization order?
+    at c.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:411:23556)
+    at uK.triggerAnimation (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:905:119454)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:905:121753
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:24912
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:24813
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:24723
+    at IV._runFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:9361)
+    at IV._run (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:6694)
+    at IV.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:7325)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at oO.finish (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:109978)
+    at mP.set (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:2882)
+    at new Tke (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:905:121270)
+    at a._createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:2000)
+    at a.createInstance (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1899:1440)
+    at ib._computeFn (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:912:848)
+    at ib._recompute (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:12496)
+    at ib.get (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:11830)
+    at ib.reportChanges (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:497)
+    at pgt.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:21647)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at ib.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at xIe.endUpdate (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:407:13497)
+    at oO.finish (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:109978)
+    at Gi (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:406:109178)
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:898:23076
+    at async uke.trigger (vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:898:51137)
+2026-04-08 01:23:29.605 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/home/rique/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png, resourceToLoad=file:///home/rique/.config/home/rique/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png
+2026-04-08 01:23:38.009 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png, resourceToLoad=file:///home/rique/.config/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png
+2026-04-08 01:23:41.307 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png, resourceToLoad=file:///home/rique/.config/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png
+2026-04-08 01:23:42.785 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png, resourceToLoad=file:///home/rique/.config/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png
+2026-04-08 01:23:43.255 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/home/rique/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png, resourceToLoad=file:///home/rique/.config/home/rique/Imagens/Captura%20de%20tela%20de%202026-04-08%2001-19-12.png
+2026-04-08 01:23:46.628 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i, resourceToLoad=file:///home/rique/.config/i
+2026-04-08 01:23:50.304 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/im, resourceToLoad=file:///home/rique/.config/im
+2026-04-08 01:23:50.980 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i, resourceToLoad=file:///home/rique/.config/i
+2026-04-08 01:23:51.530 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i%2C, resourceToLoad=file:///home/rique/.config/i%2C
+2026-04-08 01:23:52.277 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i%2C, resourceToLoad=file:///home/rique/.config/i%2C
+2026-04-08 01:23:52.703 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i, resourceToLoad=file:///home/rique/.config/i
+2026-04-08 01:23:53.402 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/im, resourceToLoad=file:///home/rique/.config/im
+2026-04-08 01:24:09.534 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/im, resourceToLoad=file:///home/rique/.config/im
+2026-04-08 01:24:10.256 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i%2C, resourceToLoad=file:///home/rique/.config/i%2C
+2026-04-08 01:24:10.995 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i%2C, resourceToLoad=file:///home/rique/.config/i%2C
+2026-04-08 01:24:12.105 [error] Webview.loadLocalResource - Error using fileReader. requestUri=file:///home/rique/.config/i, resourceToLoad=file:///home/rique/.config/i

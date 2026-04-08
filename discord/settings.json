@@ -1,0 +1,14 @@
+{
+  "openH264Enabled": true,
+  "BACKGROUND_COLOR": "#2c2d32",
+  "offloadAdmControls": true,
+  "chromiumSwitches": {},
+  "IS_MAXIMIZED": false,
+  "IS_MINIMIZED": false,
+  "WINDOW_BOUNDS": {
+    "x": 2572,
+    "y": 58,
+    "width": 1892,
+    "height": 1006
+  }
+}

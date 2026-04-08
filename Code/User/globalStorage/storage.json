@@ -1,0 +1,86 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "9bd9086f18e52088ebcbc49346c74dd7bd8c88e060cc6fcb8d91e2897e7e6b8a",
+    "telemetry.devDeviceId": "02f42bbf-6ebc-488c-b527-a6831e1344fa",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/rique/.config"
+            }
+        ],
+        "emptyWindows": [
+            {
+                "backupFolder": "1775619472622"
+            }
+        ]
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/rique/.config/i3": "__default__profile__",
+            "file:///home/rique/.config": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#121314",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#bfbfbf",
+            "background": "#121314",
+            "editorBackground": "#121314",
+            "titleBarBackground": "#191a1b",
+            "titleBarBorder": "#2a2b2c",
+            "activityBarBackground": "#191a1b",
+            "activityBarBorder": "#2a2b2c",
+            "sideBarBackground": "#191a1b",
+            "sideBarBorder": "#2a2b2c",
+            "statusBarBackground": "#191a1b",
+            "statusBarBorder": "#2a2b2c",
+            "statusBarNoFolderBackground": "#191a1b"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/rique/.config",
+            "backupPath": "/home/rique/.config/Code/Backups/f6930f5678c1f0844ab19207ea37a802",
+            "uiState": {
+                "mode": 1,
+                "x": 2570,
+                "y": 40,
+                "width": 1900,
+                "height": 1030
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 236,
+            "workspaces": {
+                "8f0c97319faf046b463f2053e8d04706": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "ab8e2b38f205541b6c938bd6b86a8e16": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}
