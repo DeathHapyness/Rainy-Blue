@@ -267,5 +267,5 @@ cp -r lxappearance ~/.config/
 <div align="center">
 
 feito com 🌧️ no Linux Mint
-
+ (usem o alacritty
 </div>
