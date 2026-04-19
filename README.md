@@ -65,7 +65,7 @@ Slate       #4c566a   ████
 Urgent      #bf616a   ████
 ```
 
----
+----
 
 ## ⌨️ Keybindings
 
@@ -218,7 +218,7 @@ logout
  - Escolha o teclado (ex: br-abnt2)
  - Escolha a tecla MOD (Win recomendado)
 
- Clonar a ricing
+ Clonar a ricing/div>
 git clone https://github.com/DeathHapyness/Rainy-Blue.git
 cd Rainy-Blue
 ```
@@ -267,5 +267,5 @@ cp -r lxappearance ~/.config/
 <div align="center">
 
 feito com 🌧️ no Linux Mint
- (usem o alacritty
-</div>
+
+<div>
